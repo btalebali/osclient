@@ -10,8 +10,8 @@ from osclient import *
 # Credential for Openstack platform
 
 tenant='admin'
-user='admin'
-password='admin_pass'
+user='xxx'
+password='xxxxxxxx'
 host='http://172.17.117.100:5000/v2.0'
 
 
